@@ -46,22 +46,11 @@ Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars
 
 **Code and Image**
 
-
-````python
-# Mission to Mars (Module Code)
-# by Emmanuel Martinez
-
 # Import Splinter and BeautifulSoup
 import pandas as pd
 from splinter import Browser
 from bs4 import BeautifulSoup as soup
 from webdriver_manager.chrome import ChromeDriverManager
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.1.1.JPG?raw=true)
-
 
 
 2. **Download the `Mission_to_Mars_Challenge_starter_code.ipynb`, copy the starter code, and paste at the end of your `Mission_to_Mars_Challenge.ipynb` file.**
@@ -74,7 +63,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 ````python
 # Here start the Mission to Mars Challenge Starter Code
-# by Emmanuel Martinez
 
 # Import Splinter, BeautifulSoup, and Pandas
 from splinter import Browser
@@ -192,8 +180,6 @@ Using your Python and HTML skills, you’ll add the code you created in Delivera
 
 
 ````python
-## MISSION TO MARS CHALLENGE
-## By Emmanuel Martinez 
 
 ## > Exported and Cleaned Mission_to_Mars_Challenge.ipynb code to scraping.py <
 
@@ -361,9 +347,6 @@ if __name__== "__main__":
     # If running as script, print scrapped data
     print(scrape_all())
 
-# By Emmanuel Martinez
-````
-
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.1.JPG?raw=true)
 
 
@@ -377,8 +360,6 @@ if __name__== "__main__":
 
 
 ````python
-## MISSION TO MARS CHALLENGE
-## By Emmanuel Martinez 
 
 # Import Flask, PyMongo, and scraping.py 
 from flask import Flask, render_template
