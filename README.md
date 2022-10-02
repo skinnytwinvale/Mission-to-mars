@@ -134,9 +134,6 @@ hemisphere_image_urls
   'title': 'Valles Marineris Hemisphere Enhanced'}]
 ````
 
-**Code Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.JPG?raw=true)
 
 **Cerberus Hemisphere Enhanced**
 
