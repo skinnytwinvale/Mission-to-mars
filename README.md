@@ -386,9 +386,6 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.2.JPG?raw=true)
-
-
 
 3. ​**The `index.html` file contains code that will display the full-resolution image URL and title for each hemisphere image.**
 
