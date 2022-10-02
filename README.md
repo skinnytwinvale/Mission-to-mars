@@ -387,9 +387,6 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-# by Emmanuel Martinez
-````
-
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.2.JPG?raw=true)
 
 
