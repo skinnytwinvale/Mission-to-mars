@@ -344,7 +344,6 @@ if __name__== "__main__":
     # If running as script, print scrapped data
     print(scrape_all())
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.1.JPG?raw=true)
 
 
 
